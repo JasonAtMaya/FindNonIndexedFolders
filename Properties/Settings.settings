@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FindNonIndexedFolders.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="vault" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="QRY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT System.ItemUrl FROM SystemIndex WHERE SolidEdge.DocumentNumber='MM-00177-001'</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
